@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Train Table</title>
+</head>
+<body>
+
+<table border="1" cellspacing="0" cellpadding="8">
+    <tr>
+   <th rowspan="2">Name of train</th>
+   <th rowspan="2">Source</th>
+   <th rowspan="2">Destination</th>
+   <th rowspan="2">Train no</th>
+   <th colspan="2">Time</th>
+   <th rowspan="2">Fair</th>
+    </tr>
+    <tr>
+   <th>Arrival</th>
+   <th>Dept</th>
+    </tr>
+    <tr>
+        <td>sabari</td>
+        <td>kottayam</td>
+        <td>guntur</td>
+        <td>12345</td>
+        <td>10:00 pm</td>
+        <td>11:00 pm</td>
+        <td>Rs.1500</td>
+    </tr>
+</table>
+
+</body>
+</html>
